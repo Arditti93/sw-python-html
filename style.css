@@ -1,0 +1,46 @@
+/* HTML Tag Selectors */
+/* P {
+    color: red;
+    font-family: Arial;
+}
+
+h1 {
+    color: blueviolet;
+    font-size: 50px;
+}
+
+a {
+    font-size: 40px;
+} */
+
+body {
+    font-family: Arial;
+    background-color: aquamarine;
+}
+
+/* Class Selectors  */
+.blue-text {
+    color: blue;
+}
+
+.red-text {
+    color: red;
+}
+
+.underline-text {
+    text-decoration: underline;
+}
+
+#bold{
+    color: rgb(79, 168, 141);
+}
+
+.doto-header-text {
+    font-family: "Doto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 150;
+    font-style: normal;
+    font-variation-settings:
+      "ROND" 0;
+  }
+  
